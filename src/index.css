@@ -1,0 +1,62 @@
+body {
+    background-image: url('./Components/bigback.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.app {
+    width: 50%;
+    padding: 10px;
+    border-radius: 20px;
+    margin: 27px auto;
+    box-shadow: 5px 5px 10px #999,-5px -5px 10px #999;
+}
+
+.app img {
+    width: 20%;
+    display: block;
+    margin: 10px auto;
+    border-radius: 20px;
+}
+
+.closeIcon {
+    position: absolute;
+    top: 17px;
+    right: 15px;
+    background: #dc3545;
+    border-radius: 50%;
+    cursor: pointer;
+    width: 35px;
+    height: 35px;
+    line-height: 17px;
+    text-align: center;
+    color: #fff;
+    font-size: 20px;
+}
+
+.react-datepicker-wrapper ,
+.react-datepicker_input-container {
+    display: block;
+}
+
+.reminder-title {
+    font-weight: bold;
+    color: #fff;
+    font-size: 27px;
+    text-align: center;
+    text-decoration: underline;
+}
+
+input, button {
+    margin: 10px 0;
+}
+
+.list-group-item {
+    margin: 5px 0;
+}
+
+.clearReminder {
+    margin: 10px 0;
+    cursor: pointer;
+}
