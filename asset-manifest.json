@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/React-Reminder-App/static/css/main.cff81202.chunk.css",
+    "main.js": "/React-Reminder-App/static/js/main.09809d83.chunk.js",
+    "main.js.map": "/React-Reminder-App/static/js/main.09809d83.chunk.js.map",
+    "runtime-main.js": "/React-Reminder-App/static/js/runtime-main.aa59a683.js",
+    "runtime-main.js.map": "/React-Reminder-App/static/js/runtime-main.aa59a683.js.map",
+    "static/css/2.802558ed.chunk.css": "/React-Reminder-App/static/css/2.802558ed.chunk.css",
+    "static/js/2.fcf05930.chunk.js": "/React-Reminder-App/static/js/2.fcf05930.chunk.js",
+    "static/js/2.fcf05930.chunk.js.map": "/React-Reminder-App/static/js/2.fcf05930.chunk.js.map",
+    "index.html": "/React-Reminder-App/index.html",
+    "static/css/2.802558ed.chunk.css.map": "/React-Reminder-App/static/css/2.802558ed.chunk.css.map",
+    "static/css/main.cff81202.chunk.css.map": "/React-Reminder-App/static/css/main.cff81202.chunk.css.map",
+    "static/js/2.fcf05930.chunk.js.LICENSE.txt": "/React-Reminder-App/static/js/2.fcf05930.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/React-Reminder-App/static/media/bigback.5bfdfa34.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aa59a683.js",
+    "static/css/2.802558ed.chunk.css",
+    "static/js/2.fcf05930.chunk.js",
+    "static/css/main.cff81202.chunk.css",
+    "static/js/main.09809d83.chunk.js"
+  ]
+}
